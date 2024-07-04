@@ -104,4 +104,3 @@ taskInput.addEventListener("keyup", e => {
 });
 
 showTodo();
-//время ролика 40:34
