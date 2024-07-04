@@ -5,15 +5,9 @@
     font-family: sans-serif;
 }
 
-html {
-    overflow-y: scroll;
-}
-
 body{
     background: olivedrab;
-    overflow: hidden;
 }
-
 .wrapper{
     max-width: 405px;
     margin: 135px auto;
